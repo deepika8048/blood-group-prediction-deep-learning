@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src=""C:\Users\hi\Downloads\banner.png"" alt="Blood Group Prediction Banner" width="100%">
+</div>
 <div align="center">
 
 <img src=![](sss.png) alt="Blood Group Prediction Banner" width="100%">
