@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.png" alt="Blood Group Prediction Banner" width="100%">
+<img src="ChatGPT Image Jul 10, 2026, 01_19_31 PM.png" alt="Blood Group Prediction Banner" width="100%">
 
 # 🩸 Blood Group Prediction Using Fingerprint Images
 ### Deep Learning · Computer Vision · Transfer Learning (VGG16)
