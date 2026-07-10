@@ -160,8 +160,6 @@ Run all cells in the notebook to train the model and reproduce the results below
 <img src="https://github.com/user-attachments/assets/90b3f815-2d1c-4de7-9c71-5c6b50e079ed" width="100%">
 <img width="1260" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/862ceb34-9cff-48ee-ad76-056149b537cb" />
 <img width="1260" height="900" alt="loss" src="https://github.com/user-attachments/assets/71f1f874-f7ab-438e-883c-c9fc15f02e2d" />
-</tr>
-<tr>
 <img width="1610" height="264" alt="image" src="https://github.com/user-attachments/assets/f84f84a5-a5fc-470c-a3f9-ed5ee8e49014" />
 <img width="1260" height="1080" alt="roc_curve" src="https://github.com/user-attachments/assets/074d218c-8c3e-4e51-82be-367d45191c80" />
 
