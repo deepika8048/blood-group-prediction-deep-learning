@@ -157,7 +157,8 @@ Run all cells in the notebook to train the model and reproduce the results below
 
 <table>
 <tr>
-<td align="center" width="50%"><b>Training Accuracy</b><br><img src="outputs/accuracy.png" width="100%"></td>
+<td align="center" width="50%"><b>Training Accuracy</b><br><img src="<img width="1260" height="900" alt="accuracy" src="https://github.com/user-attachments/assets/90b3f815-2d1c-4de7-9c71-5c6b50e079ed" />
+" width="100%"></td>
 <td align="center" width="50%"><b>Training Loss</b><br><img src="outputs/loss.png" width="100%"></td>
 </tr>
 <tr>
