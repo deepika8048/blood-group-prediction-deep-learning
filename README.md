@@ -153,14 +153,23 @@ Run all cells in the notebook to train the model and reproduce the results below
 
 ## 📈 Results
 
-> These images are generated **by your notebook**, not invented — add a final cell (snippet below) so every run automatically saves fresh plots into `outputs/`, then commit those PNGs to your repo. Once they exist at the paths below, GitHub will display them automatically.
+> These images are generated **by your notebook**, not invented — once your real training run produces them, replace these files in `outputs/`.
 
-<img src="https://github.com/user-attachments/assets/90b3f815-2d1c-4de7-9c71-5c6b50e079ed" width="100%">
-<img width="1260" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/862ceb34-9cff-48ee-ad76-056149b537cb" />
-<img width="1260" height="900" alt="loss" src="https://github.com/user-attachments/assets/71f1f874-f7ab-438e-883c-c9fc15f02e2d" />
-<img width="1610" height="264" alt="image" src="https://github.com/user-attachments/assets/f84f84a5-a5fc-470c-a3f9-ed5ee8e49014" />
-<img width="1260" height="1080" alt="roc_curve" src="https://github.com/user-attachments/assets/074d218c-8c3e-4e51-82be-367d45191c80" />
+<table>
+<tr>
+<td align="center" width="50%"><b>Training Accuracy</b><br><img src="https://github.com/user-attachments/assets/90b3f815-2d1c-4de7-9c71-5c6b50e079ed" width="100%"></td>
+<td align="center" width="50%"><b>Training Loss</b><br><img src="https://github.com/user-attachments/assets/71f1f874-f7ab-438e-883c-c9fc15f02e2d" width="100%"></td>
+</tr>
+<tr>
+<td align="center" width="50%"><b>Confusion Matrix</b><br><img src="https://github.com/user-attachments/assets/862ceb34-9cff-48ee-ad76-056149b537cb" width="100%"></td>
+<td align="center" width="50%"><b>ROC Curve</b><br><img src="https://github.com/user-attachments/assets/074d218c-8c3e-4e51-82be-367d45191c80" width="100%"></td>
+</tr>
+</table>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f84f84a5-a5fc-470c-a3f9-ed5ee8e49014" width="60%">
+<p><i>Sample prediction on a test fingerprint image</i></p>
+</div>
 
 ### 🔧 Add this cell to the end of your notebook to generate these plots
 
