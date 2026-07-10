@@ -161,8 +161,7 @@ Run all cells in the notebook to train the model and reproduce the results below
 <td align="center" width="50%"><b>Training Loss</b><br><img src="outputs/loss.png" width="100%"></td>
 </tr>
 <tr>
-<img width="1210" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" />
-<td align="center" width="50%"><b>Confusion Matrix</b><br><img src="outputs/confusion_matrix.png" width="100%"></td>
+<img width="1610" height="264" alt="image" src="https://github.com/user-attachments/assets/f84f84a5-a5fc-470c-a3f9-ed5ee8e49014" />
 <td align="center" width="50%"><b>ROC Curve</b><br><img src="outputs/roc_curve.png" width="100%"></td>
 </tr>
 </table>
