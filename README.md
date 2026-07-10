@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="sss.png" alt="Blood Group Prediction Banner" width="100%">
-</div>
+
 # 🩸 Blood Group Prediction Using Fingerprint Images
 ### Deep Learning · Computer Vision · Transfer Learning (VGG16)
 
