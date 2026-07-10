@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="C:\Users\hi\Downloads\banner.png" ,alt="Blood Group Prediction Banner" width="100%">
+<img src="<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/25660066-c517-426b-bf06-500e38d85c34" />
+" ,alt="Blood Group Prediction Banner" width="100%">
 
 # 🩸 Blood Group Prediction Using Fingerprint Images
 ### Deep Learning · Computer Vision · Transfer Learning (VGG16)
